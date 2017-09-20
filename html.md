@@ -46,7 +46,10 @@ ARIA 是一个通过给自定义元素添加一些语义化的说明，来提高
 * [HTML代码片段](http://www.jianshu.com/p/2f4910883192)
 * [CSS Tricks HTML 代码片段](https://css-tricks.com/snippets/html/)
 * [图片占位服务 Placeholder](http://www.jianshu.com/p/641dd5082570)
-* [Emmet](http://www.jianshu.com/p/54e5033808fd) 快速补全代码工具。
+* 工具
+  * [Emmet](http://www.jianshu.com/p/54e5033808fd) 快速补全代码。
+  * [Placeholders](https://github.com/mrmartineau/Placeholders) 生成占位 HTML 占位标签。
+  
 
 ### 面试题
 * [HTML相关的面试题](http://www.jianshu.com/p/2b427ee7eeea)
